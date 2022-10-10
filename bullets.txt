@@ -1,0 +1,9 @@
+### Section 2 ###
+- Show, hide, fade in, fade out elements
+- Moving, sliding elements
+- Animating
+
+### Section 3 ###
+- Selecting elements
+- Filtering selection
+
