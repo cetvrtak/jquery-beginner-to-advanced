@@ -7,3 +7,10 @@
 - Selecting elements
 - Filtering selection
 
+### Section 4 ###
+- append, appendTo
+- prepend, prependTo
+- before, after
+- replaceWith, replaceAll
+- remove, detach, empty
+- attr, prop, val
