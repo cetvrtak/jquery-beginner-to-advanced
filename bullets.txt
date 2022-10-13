@@ -14,3 +14,10 @@
 - replaceWith, replaceAll
 - remove, detach, empty
 - attr, prop, val
+
+### Section 5 ###
+- Changing CSS properties
+- addClass, removeClass
+- Set, get & remove .data
+- Accessing "data-" attribute defined in HTML
+- .text(), .html()
