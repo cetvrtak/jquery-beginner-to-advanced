@@ -21,3 +21,11 @@
 - Set, get & remove .data
 - Accessing "data-" attribute defined in HTML
 - .text(), .html()
+
+### Section 6 ###
+- .click(), .hover()
+- .stop() - Stop animation
+- .on()
+- Delegated events
+- Passing data to events
+- keydown, keyup
