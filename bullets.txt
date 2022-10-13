@@ -29,3 +29,7 @@
 - Delegated events
 - Passing data to events
 - keydown, keyup
+
+### Section 7 ###
+- focus, blur
+- change
