@@ -33,3 +33,6 @@
 ### Section 7 ###
 - focus, blur
 - change
+
+### Section 8 ###
+- AJAX
