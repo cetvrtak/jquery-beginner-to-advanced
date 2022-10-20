@@ -1,0 +1,51 @@
+### The Complete jQuery Course: From Beginner To Advanced!
+
+- Udemy course overview
+
+As someone without any previous experience with jQuery library, this course has been a perfect opportunity to get to know the jQuery basics and its possible usage.
+
+### Section 2
+
+- Show, hide, fade in, fade out elements
+- Moving, sliding elements
+- Animating
+
+### Section 3
+
+- Selecting elements
+- Filtering selection
+
+### Section 4
+
+- append, appendTo
+- prepend, prependTo
+- before, after
+- replaceWith, replaceAll
+- remove, detach, empty
+- attr, prop, val
+
+### Section 5
+
+- Changing CSS properties
+- addClass, removeClass
+- Set, get & remove .data
+- Accessing "data-" attribute defined in HTML
+- .text(), .html()
+
+### Section 6
+
+- .click(), .hover()
+- .stop() - Stop animation
+- .on()
+- Delegated events
+- Passing data to events
+- keydown, keyup
+
+### Section 7
+
+- focus, blur
+- change
+
+### Section 8
+
+- AJAX
